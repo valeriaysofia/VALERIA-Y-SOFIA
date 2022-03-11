@@ -40,3 +40,62 @@ console.log ("xd");
 console.log (valor);
 //concatenado 
 console.log ("esto vale " + valor );
+//operadores//
+//suma//
+var suma;
+suma=5+4;
+console.log(suma);
+var a=12
+suma =a+8
+console.log(suma);
+var b=20;
+suma =a+b
+console.log(suma);
+//resta//
+var resultado= a-b;
+console.log (resultado);
+resultado=b-a
+console.log(resultado);
+//multipicacion //
+var producto;
+producto=a*b;
+console.log(producto);
+//division//
+var division;
+division=a/b;
+console.log(division);
+divison=b/a
+console.log(division);
+var result;
+result=a*b;
+console.log(result);
+result=a*b-10;
+console.log(result);
+result=a*(b-10);
+console.log(result);
+var exp=3**2; 
+console.log(exp);
+//cadenas o string//
+var cadenita1="3";
+var cadenita2="5";
+var sumacadenas= cadenita1+cadenita2;
+console.log(sumacadenas);
+var nombrecito= "Valeria";
+var apellidito="Ramirez";
+var nomCompleto= nombrecito+" "+apellidito;
+console.log(nomCompleto);
+var longitud=nombrecito.length;
+console.log(longitud);
+//encontrar caracteres dada la posicion en el vector//
+var primeraLetra;
+primeraLetra=nombrecito[0];
+console.log(primeraLetra)
+console.log(nombrecito[1]);
+//encontrar la ultima posicion de una cadena o vector
+nombrecito[nombrecito.length-1]
+console.log(nombrecito[nombrecito.length-1]);
+//se debe buscar la longitud de la cadena y restarle 1 para encontrar la ultima letra
+//valores inmutables
+//las posiciones de una cadena se pueden consultar pero no se puede reasignar su valor
+nombrecito[0]="P"
+console.log(nombrecito);

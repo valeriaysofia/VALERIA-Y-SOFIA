@@ -7,7 +7,7 @@ Realizado por: sofi y vale
 var nombreEstudiante; //string 
 var gradoEstudiante //string
 var edadEstudiantes //int
-gradoEstudiante= "10a"
-nombreEstudiante= "sofia"
-var edadEstudiantes= prompt("ingrese su edad ");
+gradoEstudiante= "10a";
+nombreEstudiante= "sofia";
+edadEstudiantes= prompt("ingrese su edad ");
 console.log("El estudiante " + nombreEstudiante +" del grado " + gradoEstudiante + " tiene " + edadEstudiantes +" años") 
