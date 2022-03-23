@@ -99,3 +99,28 @@ console.log(nombrecito[nombrecito.length-1]);
 //las posiciones de una cadena se pueden consultar pero no se puede reasignar su valor
 nombrecito[0]="P"
 console.log(nombrecito);
+//ParSeo o Casting
+/*se trata de convertir las variables a otro tipo de datos los cambios existentes son:
+*a entero parseInt()
+*a decimal parseFloat()
+*a cadena String ()
+*/
+//convertir variables
+var entero1=prompt("ingrese un entero")
+var entero2=prompt("ingrese otro entero")
+var sumaE =entero1 + entero2;
+console.log ("sin parseInt" + sumaE);
+//forma1
+/*convertir el dato justo en el momento en el que se recibe por teclado
+esto implica que cuando se llame la variable ya este convertida al tipo de dato deseado
+*/
+entero1=parseInt (prompt("ingrese un entero"));
+entero2=parseInt(prompt("ingrese otro entero"))
+sumaE =entero1 + entero2;
+console.log("convertido "+ sumaE);
+
+//taller solicitar la altura del rectagulo solicitar la base del rectangulo
+ altura=parseInt (prompt("ingrese la altura del rectangulo"));
+ base=parseInt (prompt("ingrese la base del rectangulo"));
+perimetro= altura + base + altura + base;
+console.log("convertido" + perimetro);
