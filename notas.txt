@@ -1,4 +1,8 @@
+sofia Gipis y  valeria Ramirez
+
+
 Taller 1: Nota 4.6
+
     * Los simbolos // al final de la primera línea, sobran
     * El valor en la línea 10 debía ser inicializado, no asignado.
 
@@ -8,3 +12,6 @@ Taller 2: Nota 3.6
     * Formula en línea 43 incompleta
     * formula en la linea 65 incorrecta
     * formulas lineas 73, 83 incorrectas
+
+
+Taller 3 (Recuperación): Nota 5
