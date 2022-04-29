@@ -10,4 +10,5 @@ var edadEstudiantes //int
 gradoEstudiante= "10a";
 nombreEstudiante= "sofia";
 edadEstudiantes= prompt("ingrese su edad ");
-console.log("El estudiante " + nombreEstudiante +" del grado " + gradoEstudiante + " tiene " + edadEstudiantes +" años") 
+
+

@@ -109,7 +109,7 @@ console.log(nombrecito);
 var entero1=prompt("ingrese un entero")
 var entero2=prompt("ingrese otro entero")
 var sumaE =entero1 + entero2;
-console.log ("sin parseInt" + sumaE);
+console.log ("sin parseInt " + sumaE);
 //forma1
 /*convertir el dato justo en el momento en el que se recibe por teclado
 esto implica que cuando se llame la variable ya este convertida al tipo de dato deseado
@@ -123,4 +123,4 @@ console.log("convertido "+ sumaE);
  altura=parseInt (prompt("ingrese la altura del rectangulo"));
  base=parseInt (prompt("ingrese la base del rectangulo"));
 perimetro= altura + base + altura + base;
-console.log("convertido" + perimetro);
+console.log("convertido " + perimetro);

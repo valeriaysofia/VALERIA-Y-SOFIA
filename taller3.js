@@ -1,6 +1,6 @@
 var piscina
 piscina = prompt ("digite la cantidad de litros que caben en la piscina");
-hora = piscina*1/145
+var hora = piscina*1/145
 console.log("se demora " + hora + "horas para llenar la piscina");
 //2
 var milimetros
