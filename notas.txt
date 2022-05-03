@@ -15,3 +15,14 @@ Taller 2: Nota 3.6
 
 
 Taller 3 (Recuperación): Nota 5
+
+
+
+********************** segundo periodo
+
+taller 1: Nota 4.5
+    * linea 35, falta una condicion
+    * 110, hay un espacio de mas en la palabra "miercoles "
+    * 128, no evalua el numero 9
+
+enlace examen: https://acortar.link/HmjOm1
