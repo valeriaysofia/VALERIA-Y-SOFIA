@@ -26,3 +26,9 @@ taller 1: Nota 4.5
     * 128, no evalua el numero 9
 
 enlace examen: https://acortar.link/HmjOm1
+
+examen (stephania y sofia): Nota 4.5
+    * linea 18, debía ser "20"
+    * linea 29, debe ser "20"
+    * Punto 5, no tiene mensaje cuando el usuario digite un valor que no está en la lista de productos
+    * Punto 6, no tiene mensaje cuando el usuario digite un valor que no está en la lista de eventos. No suma puntos
