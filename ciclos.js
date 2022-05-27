@@ -44,7 +44,7 @@ console.log("punto 5");
 ciclo4=prompt("ingrese un negativo para parar");
 while(ciclo5 >=0){
     console.log("dijo"+ ciclo5)
-ciclo5=prompt("ingrese un negativo para detenerse"); 
+var ciclo5=prompt("ingrese un negativo para detenerse"); 
 }
 
 console.log ("punto 6")
