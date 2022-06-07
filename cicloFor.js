@@ -12,7 +12,7 @@ for(var i=0; i<=limite; i++){
 }
 console.log(sumatoria);
 
-var inicio =prompt("ingrese el incio");
+var inicio=prompt("ingrese el incio");
 var fin=prompt("ingrese el fin");
 for(var i=inicio; i<=fin;  i++){
     if(i%2==0){
@@ -26,7 +26,7 @@ for(var i=0; i<5; i++){
     arregloNombres.push(nombre);
 } 
 for(var i=0; i <arregloNombres.length; i++ ){ 
-console.log("el nombre " +i+"es " + arregloNombres[i])
+console.log("el nombre " +i+" es " + arregloNombres[i])
 }
 
 var cantNotas =parseInt(prompt("ingrese la cantidad de notas"));
