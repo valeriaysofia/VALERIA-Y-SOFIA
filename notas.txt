@@ -39,3 +39,7 @@ Taller while: Nota 4
 
 examen while: Nota
     * no está en github
+
+ciclo for: Nota 4.2
+    * El punto 1, solo funciona si los numeros están en orden. Debe funcionar aunque estén en desorden
+    * 
